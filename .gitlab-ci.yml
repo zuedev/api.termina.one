@@ -1,4 +1,4 @@
-build_bot:
+build:
   stage: build
   image: docker:cli
   variables:
